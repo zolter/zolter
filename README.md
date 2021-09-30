@@ -12,3 +12,4 @@
   
  - https://zolter.pro/
  - https://linkedin.com/in/zolter/
+ - zolter.od@gmail.com
