@@ -6,9 +6,7 @@
 
 ✅ Other: Leadership, Motivation, People Development, Agile, Scrum, Budgeting, Resource Management. Managed multiple teams with remote employees, Team management, Planning.
 
-15 years of experience in IT.
-
-7 years on leadership positions (CTO/Team lead)
+15 years of experience in IT. 7 years on leadership positions (CTO/Team lead)
   
  - https://zolter.pro/
  - https://linkedin.com/in/zolter/
