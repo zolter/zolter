@@ -1,6 +1,6 @@
 ### ❤🔥 CTO / Head of IT / Team Lead 🔥❤
 
-✅ My expertise:  d Network, Affiliate program, Gambling, Betting, Blockchain, High Load, Internet Marketing, Traffic, Financial Pyramid, ICO, GameDev
+✅ My expertise: Gambling, Ad Network, Affiliate program, Blockchain, GameDev, High Load
 
 ✅ My technical skills:  PHP, Node.js, Redis, MySQL, Code Review, Architecture, Design Patterns
 
