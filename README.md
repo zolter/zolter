@@ -8,6 +8,7 @@ __15 years of experience in IT. 7 years on leadership positions (CTO/Team lead)_
 
 ✅ Other: Leadership, Motivation, People Development, Team management, Planning.
 
- - https://zolter.pro/
  - https://linkedin.com/in/zolter/
+ - https://zolter.pro/
+ - https://t.me/zolter
  - zolter.od@gmail.com
