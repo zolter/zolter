@@ -1,4 +1,4 @@
-### ❤🔥 CTO / Head of IT / Team Lead 🔥❤
+### 🆃🅸🅼🆄🆁 Alekseenko: ❤🔥 CTO / Fullstack / R&D / PHP / NodeJS 🔥❤
 
 __15 years of experience in IT. 7 years on leadership positions (CTO/Team lead)__
 
