@@ -1,5 +1,5 @@
 ### 🆃🅸🅼🆄🆁 Alekseenko: 
-❤🔥 CTO / Fullstack / R&D / PHP / NodeJS 🔥❤
+❤🔥 CTO / Fullstack / PHP / NodeJS / R&D 🔥❤
 
 __15 years of experience in IT. 7 years on leadership positions (CTO/Team lead)__
 
