@@ -7,7 +7,7 @@ __15 years of experience in IT. 7 years on leadership positions (CTO/Team lead)_
 
 ✅ My technical skills:  PHP, Node.js, Redis, MySQL, Code Review, Architecture, Design Patterns
 
-✅ Other: Leadership, Motivation, People Development, Team management, Planning.
+✅ Other: Leadership, Motivation, People Development, Team management, Planning
 
  - https://linkedin.com/in/zolter/
  - https://zolter.pro/
