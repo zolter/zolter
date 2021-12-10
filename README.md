@@ -26,7 +26,6 @@ __15 years of experience in IT. 7 years on leadership positions (CTO/Team lead)_
  - `https://r3mbr.me` - *Under construction*
  - `https://ukr.cat` - *Under construction*
  - `https://ukr.city` - *Under construction*
- - `...`
 
 📌 __Contacts:__
 
