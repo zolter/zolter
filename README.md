@@ -1,7 +1,7 @@
 
 ### 🆃🅸🅼🆄🆁 Alekseenko: 
 
-__❤🔥 CTO / Fullstack / PHP / NodeJS / R&D 🔥❤__
+__❤🔥 CTO / Fullstack / PHP / NodeJS / R&D 🔥❤__ 
 
 | NodeJS  | Redis  | Google Extensions  | Gambling |
 |---|---|---|---|
