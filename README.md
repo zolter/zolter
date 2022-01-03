@@ -34,5 +34,7 @@ __15 years of experience in IT. 7 years on leadership positions (CTO/Team lead)_
  - `https://zolter.pro`
  - `https://t.me/zolter`
 
+📌 __Stat:__
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zolter&show_icons=true&theme=radical)
 
