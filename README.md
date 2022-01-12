@@ -1,5 +1,5 @@
 
-### 🆃🅸🅼🆄🆁 Alekseenko: 
+### 🆃🅸🅼🆄🆁 Alekseenko
 
 __❤🔥 CTO / Fullstack / PHP / NodeJS / R&D 🔥❤__
 
