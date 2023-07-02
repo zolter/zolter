@@ -34,4 +34,3 @@ __15 years of experience in IT. 7 years on leadership positions (CTO/Team lead)_
  - `https://djinni.co/q/79f68d55a3/`
  - `https://zolter.pro`
  - `https://t.me/zolter`
- 
