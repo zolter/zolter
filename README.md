@@ -19,15 +19,6 @@ __15 years of experience in IT. 7 years on leadership positions (CTO/Team lead)_
  - ✅ My technical skills: PHP, Node.js, Redis, MySQL, Code Review, Architecture, Design Patterns
  - ✅ Other: Leadership, Motivation, People Development, Team management, Planning
 
-📌 __Projects:__
-
- - `https://adbless.com` - *Popular Ad Network (popunder, clickunder, banners, iframe, google chrome ext)*
- - `https://kwork.vip` - *Additional analytics capabilities for Kwork*
- - `https://kwork.ru/user/big-boss-traffic` - *Account included in TOP20 (based on 2021y results)*
- - `https://r3mbr.me`
- - `https://ukr.cat`
- - `https://ukr.city`
-
 📌 __Contacts:__
 
  - `https://linkedin.com/in/zolter`
